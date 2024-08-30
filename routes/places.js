@@ -4,7 +4,6 @@ const fetch = require('node-fetch');
 
 const User = require('../models/users')
 const Place = require('../models/places')
-// const apiKey = 'AIzaSyD7kmefnloIc3Ank2T2wa5Qut4MohDNyTk';
 // const latitude = 45.75; // Latitude de Lyon
 // const longitude = 4.85; // Longitude de Lyon
 // const radius = 50000; // Rayon en mètres
